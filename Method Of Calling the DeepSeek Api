@@ -1,0 +1,12 @@
+按日期命名（如 2025-08-09-my-post.md）
+
+---
+title: "DeepSeek api method"
+date: 2025-08-09
+tags: [Git, 教程]
+---
+
+GitHub Pages​​：
+在仓库设置中启用 GitHub Pages，选择 main分支或 docs文件夹。
+访问 https://<用户名>.github.io查看博客。
+​​自定义域名​​：在仓库设置中绑定域名并配置 DNS
